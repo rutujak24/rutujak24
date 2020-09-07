@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![counter](https://[YourEndpoint].m.pipedream.net)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
