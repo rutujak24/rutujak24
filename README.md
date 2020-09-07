@@ -1,5 +1,5 @@
- <div align="center"> # Hi there 👋 <div>
- ## Nice to meet you!✨
+ <div align="center"> # Hi there 👋 
+ ## Nice to meet you!✨ </div>
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
