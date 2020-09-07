@@ -1,6 +1,6 @@
  # <div align="center">  Hi there 👋 </div>
  ## <div align="center"> I am [Rutuja Kawade](https://rutujakawade.netlify.app/) from India 🇮🇳 </div>
- ### <div align="center"> Nice to meet you!✨ </div>
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
@@ -10,5 +10,5 @@
 
 🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
-
+####Nice to meet you!✨ My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
 
