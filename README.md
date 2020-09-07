@@ -8,7 +8,7 @@
 
 🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
 
-🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
+🌈 Let's connect via #### [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
 #### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
 
