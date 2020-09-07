@@ -1,7 +1,7 @@
  # <div align="center">  Hi there 👋 </div>
  ## <div align="center">  Nice to meet you!✨ </div>
 
-![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
 🎯 I am an undergraduate at PICT, Pune. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
 
