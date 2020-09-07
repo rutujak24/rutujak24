@@ -6,7 +6,7 @@
 
 🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
 
-🌈 [Let's connect via ](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/ "Linkedin")
+🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
 
 
