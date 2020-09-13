@@ -1,6 +1,6 @@
  # <div align="center">  Hi there 👋 </div>
  ## <div align="center"> I am [Rutuja Kawade](https://rutujakawade.netlify.app/) from India :india: </div>
-
+(https://github.com/rutujak24/rutujak24/blob/master/Banner.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
