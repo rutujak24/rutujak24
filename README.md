@@ -10,7 +10,7 @@
 
 🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=onedark)
 
 
 
