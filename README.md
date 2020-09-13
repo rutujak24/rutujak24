@@ -5,6 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 [![Followers](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 [![Years Badge](https://badges.pufler.dev/years/puf17640)](https://badges.pufler.dev)
+![Followers](https://badges.pufler.dev/visits/rutujak24/)
 
 
 🎯 I am an undergraduate at PICT, Pune. A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
