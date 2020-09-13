@@ -10,14 +10,14 @@
 
 🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 
 
