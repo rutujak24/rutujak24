@@ -1,5 +1,6 @@
 <!-- # <div align="center">  Hi there 👋 </div>
  ## <div align="center"> I am [Rutuja Kawade](https://rutujakawade.netlify.app/) from India :india: </div>-->
+![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/header.png)
 ![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/CoverBanner.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
@@ -88,4 +89,4 @@
 
 
 #### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
-
+![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/footer.png)
