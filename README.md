@@ -10,7 +10,8 @@
 
 🌈 Let's connect via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=rutujak24&theme=<THEME_NAME>" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### Just dive right in. My [Inbox](mailto:rutujakawade24@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) is always open to any opportunities, suggestions, and advice.
