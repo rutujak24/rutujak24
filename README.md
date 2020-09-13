@@ -13,10 +13,10 @@
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact" />
 </a>
 
