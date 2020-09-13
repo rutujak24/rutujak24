@@ -3,6 +3,8 @@
 ![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/CoverBanner.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
+![Followers 18](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
 
