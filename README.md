@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=highcontrast&count_private=true" />
 </a>
 <a href="https://github.com/rutujak24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=highcontrast&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=onedark&langs_count=8&layout=compact" />
 </a>
 
 ### My Skill-Set
