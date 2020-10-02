@@ -27,7 +27,7 @@
 </a>
 
 ### My Skill-Set
-<img width="55%" align="left" alt="Github" src="https://github.com/rutujak24/rutujak24/blob/master/gito.png" />
+<img width="30%" align="left" alt="Github" src="https://github.com/rutujak24/rutujak24/blob/master/gito.png" />
 <a href="https://github.com/rutujak24">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </a>
