@@ -18,6 +18,7 @@
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)-->
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <a href="https://github.com/rutujak24">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true" />
