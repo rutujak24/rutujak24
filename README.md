@@ -5,6 +5,9 @@
 <a href="https://rutujakawade.netlify.app/" target="_blank">
  <img align="center" src="https://github.com/rutujak24/rutujak24/blob/master/CoverBanner2.png" />
 </a>
+<a href="https://rutujakawade.netlify.app/" target="_blank">
+ <img align="center" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
