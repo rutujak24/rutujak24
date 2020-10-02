@@ -21,10 +21,10 @@
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 <a href="https://github.com/rutujak24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=merko&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=radical&count_private=true" />
 </a>
 <a href="https://github.com/rutujak24">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=merko&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=radical&langs_count=8&layout=compact" />
 </a>
 
 ### My Skill-Set
