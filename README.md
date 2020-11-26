@@ -3,7 +3,7 @@
 ![A passionate programmer who is keen about exploring opportunities from India.](https://github.com/rutujak24/rutujak24/blob/master/header.png)
 
 <a href="https://rutujakawade.netlify.app/" target="_blank">
- <img align="center" src="https://github.com/rutujak24/rutujak24/blob/master/CoverBanner2.png" />
+ <img align="center" src="https://github.com/rutujak24/rutujak24/blob/master/CoverBanner.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
