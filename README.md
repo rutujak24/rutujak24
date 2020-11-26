@@ -6,8 +6,8 @@
  <img align="center" src="https://github.com/rutujak24/rutujak24/blob/master/Banner2.png" />
 </a>
 
-
-
+<br>
+</br>
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
 
