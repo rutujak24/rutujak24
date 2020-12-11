@@ -29,7 +29,7 @@
 </a>
 
 ### My Skill-Set
-<img width="40%" height="80%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="40%" align="left" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <a href="https://github.com/rutujak24">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </a>
@@ -99,6 +99,9 @@
 <a href="https://github.com/rutujak24">
 <img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 </a>
+
+
+
 
 
 
