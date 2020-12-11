@@ -14,7 +14,7 @@
 
    🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
 
-   🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/rutuja-kawade-6b7a8a171/)
+   🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/rutujakawade/)
   
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
