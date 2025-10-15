@@ -1,0 +1,12 @@
+# Placeholder Role for the controller (adjust verbs/resources as needed)
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  name: k8s-cost-optimizer-role
+rules:
+  - apiGroups: [""]
+    resources: ["pods","nodes","persistentvolumeclaims"]
+    verbs: ["get","list","watch"]
+  - apiGroups: ["finops.yourname.dev"]
+    resources: ["costrecommendations"]
+    verbs: ["get","list","create","update","patch"]

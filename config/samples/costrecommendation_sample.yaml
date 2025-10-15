@@ -1,0 +1,14 @@
+apiVersion: finops.yourname.dev/v1
+kind: CostRecommendation
+metadata:
+  name: overprovisioned-pod-xyz
+  namespace: production
+spec:
+  resourceType: Pod
+  resourceName: my-app-abc123
+  namespace: production
+  issue: "Memory request 2Gi, actual usage 200Mi"
+  recommendation: "Reduce to 512Mi"
+  potentialSavings: "$45/month"
+  confidence: "high"
+  autoApplicable: false

@@ -1,0 +1,1 @@
+Project docs directory. Replace placeholders with architecture diagrams, demo screenshots and runbook.

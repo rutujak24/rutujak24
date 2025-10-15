@@ -1,0 +1,1 @@
+Controller entrypoint. Use `go run ./cmd/controller` to run the manager locally (requires a kubeconfig and permissions).

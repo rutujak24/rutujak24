@@ -1,0 +1,9 @@
+{
+  "title": "K8s Cost Optimizer - Overview",
+  "panels": [
+    { "type": "graph", "title": "Total cluster cost", "targets": [] },
+    { "type": "stat", "title": "Potential monthly savings", "targets": [] },
+    { "type": "table", "title": "Top 10 wasteful resources", "targets": [] }
+  ],
+  "templating": { "list": [] }
+}
