@@ -9,16 +9,13 @@
 ###
 ![](https://komarev.com/ghpvc/?username=your-github-rutujak24&color=blueviolet)
 
-   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are machine learning, data science, Computer Vision, Python, Java, C++, R, MATLAB, open-source, and web development. I aspire to work and contribute to these fields for betterment society through research and innovations for improvisation in the field of computer science and technology.
+   🎯 A quality and output-driven computer enthusiast. Passionate about exploring computer science and technology-related topics. My domains & fields of interest are software engineering, machine learning, data science, Computer Vision, Python, Java, C++, Go, open-source.
 
    🏅 Keen about exploring opportunities in the field of research and development in computer science-related technologies, also open for collaborations! 
 
    🌈 Let's stay in touch via [LinkedIn](https://www.linkedin.com/in/rutujakawade/)
   
 
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=cobalt&count_private=true)-->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=cobalt&langs_count=8&layout=compact)-->
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 ### Some Stats here :)
 
